@@ -1,4 +1,4 @@
-<div align: justify>
+<div align="justify">
 
 # IBM Advanced Data Science
 
