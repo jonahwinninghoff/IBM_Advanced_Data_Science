@@ -1,1 +1,1 @@
-[Website](https://www.kaggle.com/pranavraikokte/covid19-image-dataset)
+The dataset comes from [Kaggle platform](https://www.kaggle.com/pranavraikokte/covid19-image-dataset), which is in cloud. For the reproducible purpose, the data repository is attached as well. If you want to understand why the deep learning builds this way, please read my ADD file. 
